@@ -18,6 +18,7 @@
           <option value="http://primefaces.org/ui" />
           <option value="http://schema.cloudfoundry.org/spring/" />
           <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://swisnl.github.io" />
           <option value="http://tiles.apache.org/" />
           <option value="http://www.automationpractice.pl" />
           <option value="http://www.ibm.com/webservices/xsd" />
