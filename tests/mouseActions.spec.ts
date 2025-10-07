@@ -44,7 +44,6 @@ test.only('Drag and drop', async ({browser}) => {
         const dropElement: Locator = frame.locator("div.droppable")
         await dragElement.dragTo(dropElement)
     }
-
-
+    
     await page.waitForTimeout(2000)
 })
